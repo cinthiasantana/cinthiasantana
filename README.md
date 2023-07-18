@@ -2,11 +2,12 @@
 
 - 🔭 Hoje trabalho com projetos fullStack
 - 🌱 Estou me aprofundando mais em JavaScript
-- 📫 Contate-me pelo email: cinthiasantanadev@gmail.com
+- 💡 Compartilho aqui no GitHub projetos interessantes desenvolvidos em cursos e soluções criativas que aprendi
+- 📫 Você pode entrar em contato comigo pelo email: cinthiasantanadev@gmail.com
 <br>
 <div> 
   <a href = "mailto:cinthiasantanadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cinthia-santana-419809219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/cinthiasantanadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
