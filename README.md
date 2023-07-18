@@ -2,7 +2,8 @@
 
 - 🔭 Hoje trabalho com projetos fullStack
 - 🌱 Estou me aprofundando mais em JavaScript
-- 💡 Compartilho aqui no GitHub projetos interessantes desenvolvidos em cursos e soluções criativas que aprendi
+- 🚀 Apaixonada por inovação e soluções criativas
+- 💡 Compartilho aqui no GitHub projetos interessantes desenvolvidos em cursos e soluções de projetos que aprendi
 - 📫 Você pode entrar em contato comigo pelo email: cinthiasantanadev@gmail.com
 <br>
 <div> 
