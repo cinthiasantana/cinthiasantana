@@ -1,7 +1,7 @@
-## Olá! Eu sou a Cínthia Santana 👋
+# Olá! Eu sou a Cínthia Santana 👋
 
 - 🔭 Hoje trabalho com projetos fullStack
-- 🌱 Estudando JavaScript
+- 🌱 Estou me aprofundando mais em JavaScript
 - 📫 Contate-me pelo email: cinthiasantanadev@gmail.com
 <br>
 <div> 
@@ -10,6 +10,8 @@
 </div>
 
 ##
+
+### Técnologias Com Quais Trabalho
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,6 +24,9 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+##
+
 <br>
 <a href="https://github.com/cinthiasantana/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cinthiasantana&show_icons=true&theme=radical" />
@@ -31,6 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 </a>
 
 ## 
+
+### Principais Repositórios
 
   <a href="https://github.com/cinthiasantana/formacao-java-script-developer">
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cinthiasantana&repo=formacao-java-script-developer&theme=radical"/>
